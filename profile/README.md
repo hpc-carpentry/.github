@@ -53,5 +53,6 @@ the following resources:
 [hpc-home]: https://www.hpc-carpentry.org
 [hpc-intro]: https://github.com/carpentries-incubator/hpc-intro
 [hpc-workflows]: https://github.com/carpentries-incubator/hpc-workflows
-[slack]: https://slack-invite.carpentries.org/
+[snakemake]: https://snakemake.readthedocs.io
+[slack]: https://slack-invite.carpentries.org
 [swc-shell]: https://github.com/swcarpentry/shell-novice
