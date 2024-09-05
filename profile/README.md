@@ -13,7 +13,7 @@ join __#hpc-carpentry__ on the [Carpentries' Slack][slack]
 and keep an eye out for our next meeting: we host two per
 month, so you won't have to wait long.
 
-We contribute lessone to the Carpentries Incubator as they
+We contribute lessons to the Carpentries Incubator as they
 near completion, which means they can't be pinned here.
 A typical HPC Carpentry workshop is stitched together from
 the following resources:
