@@ -1,4 +1,4 @@
-# HPC Carpentry
+# High-Performance Computing Carpentry
 
 We are a global volunteer organization committed to
 developing high-quality training materials and a modular
@@ -18,14 +18,18 @@ near completion, which means they can't be pinned here.
 A typical HPC Carpentry workshop is stitched together from
 the following resources:
 
-0. [__hpc-carpentry/amdahl__][hpc-amdahl]
+0. "Black Box" Amdahl's Law Simulator 
+
+   [__hpc-carpentry/amdahl__][hpc-amdahl]
 
    A parallel Python program with tunable proportions of
    serial and parallel work, used in our core lessons to
    mimic a "real" parallel workload using `sleep()` instead
    of an energy-intensive task.
 
-1. [__swcarpentry/shell-novice__][swc-shell]
+1. The Unix Shell
+
+   [__swcarpentry/shell-novice__][swc-shell]
 
    Cluster resources are often, if not always, accessed
    from a command-line interface (CLI) rather than a
@@ -34,13 +38,17 @@ the following resources:
    a.k.a. "command line") is a prerequisite for our
    workshops.
 
-2. [__carpentries-incubator/hpc-intro__][hpc-intro]
+2. Using High-Performance Computing Systems
+
+   [__carpentries-incubator/hpc-intro__][hpc-intro]
 
    A gentle introduction to workload managers (queuing
    systems) and shared computational resources, this lesson
    forms the heart of HPC Carpentry.
 
-3. [__carpentries-incubator/hpc-workflows__][hpc-workflows]
+3. Building High-Performance Computing Workflows with Snakemake
+
+   [__carpentries-incubator/hpc-workflows__][hpc-workflows]
 
    If you've launched one job, you might as well launch a
    thousand... but use a tool to manage your workflow!
